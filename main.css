@@ -138,5 +138,6 @@ h1, h2, h3 {
   width: 16px;
   height: 16px;
   object-fit: scale-down;
-  display: block;
+  display: inline;
+  color: pink;
 }
