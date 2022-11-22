@@ -133,3 +133,10 @@ h1, h2, h3 {
   margin-left: auto;
   margin-right: auto;
 }
+
+.sponsorimg {
+  width: 16px;
+  height: 16px;
+  object-fit: scale-down;
+  display: block;
+}
